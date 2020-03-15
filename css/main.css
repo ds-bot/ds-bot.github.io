@@ -5,7 +5,7 @@ body {
     font-size: 14px;
     line-height: 20px;
     font-family: Verdana, sans-serif;
-    color: #000000;
+    color: #67AAF9;
 
     background-color: #ffffff;
 }
@@ -14,6 +14,7 @@ body {
     width: 1040px;
     margin: 0 auto;
     padding: 0;
+    color: #7161EF;
 }
 
 .visually-hidden {
@@ -29,9 +30,8 @@ body {
 }
 
 .site-header {
-    color: #ffffff;
-
-    background-color: #222222;
+    color: #7161EF;
+    background-color: #9BBDF9;
 }
 
 .site-header .container {
@@ -72,7 +72,7 @@ body {
 
     font-size: 14px;
     text-decoration: none;
-    color: #d4d4d4;
+    color: #7161EF;
 }
 
 
@@ -176,7 +176,7 @@ body {
 .features {
     padding: 85px 0;
 
-    background-color: #131313;
+    background-color: #7161EF;
 
     color: #ffffff;
 }
@@ -276,7 +276,7 @@ body {
 .site-footer {
     padding-top: 50px;
     padding-bottom: 80px;
-    background-color: #111111;
+    background-color: #7161EF;
 }
 
 
@@ -311,7 +311,7 @@ body {
 
 .copyrights {
     margin-top: auto;
-    color: #777777;
+    color: #5ZE2E5;
 }
 
 .footer-menu {
@@ -365,6 +365,7 @@ body {
 .btn btn-yellow {
     display: flex;
     justify-content: space-between;
+    color: #5ZE2E5;
 }
 
 .iconki {
